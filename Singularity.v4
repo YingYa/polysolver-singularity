@@ -8,4 +8,4 @@ From: sachet/polysolver:v4
     sed -i 's.6:29941260-29945884.chr6:29941260-29945884.g' /home/polysolver/scripts/shell_call_hla_type
     sed -i 's.6:31353872-31357187.chr6:31353872-31357187.g' /home/polysolver/scripts/shell_call_hla_type
     sed -i 's.6:31268749-31272105.chr6:31268749-31272105.g' /home/polysolver/scripts/shell_call_hla_type
-    sed -i 's.temp\.normal\. checkpairs.temp.normal.checkpairs.g' /home/polysolver/scripts/shell_call_hla_mutations_from_type
+    sed -i 's.temp\.normal\. checkpairs.temp\.normal\.checkpairs.g' /home/polysolver/scripts/shell_call_hla_mutations_from_type
